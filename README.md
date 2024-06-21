@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 jupyter notebook
 ```
 
-4. Open `training/model.ipynb` in Jupyter Notebook.
-5. In cell #2, update the path to dataset.
-6. Run all the Cells one by one.
-7. Copy the model generated and save it with the version number in the `models` folder.
+3. Open `training/model.ipynb` in Jupyter Notebook.
+4. In cell #2, update the path to dataset.
+5. Run all the Cells one by one.
+6. Copy the model generated and save it with the version number in the `models` folder.
